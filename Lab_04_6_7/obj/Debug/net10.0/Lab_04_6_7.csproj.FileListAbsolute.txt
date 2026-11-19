@@ -1,0 +1,15 @@
+C:\Users\iziko\source\repos\Lab_04\Lab_04_6_7\bin\Debug\net10.0\Lab_04_6_7.exe
+C:\Users\iziko\source\repos\Lab_04\Lab_04_6_7\bin\Debug\net10.0\Lab_04_6_7.deps.json
+C:\Users\iziko\source\repos\Lab_04\Lab_04_6_7\bin\Debug\net10.0\Lab_04_6_7.runtimeconfig.json
+C:\Users\iziko\source\repos\Lab_04\Lab_04_6_7\bin\Debug\net10.0\Lab_04_6_7.dll
+C:\Users\iziko\source\repos\Lab_04\Lab_04_6_7\bin\Debug\net10.0\Lab_04_6_7.pdb
+C:\Users\iziko\source\repos\Lab_04\Lab_04_6_7\obj\Debug\net10.0\Lab_04_6_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iziko\source\repos\Lab_04\Lab_04_6_7\obj\Debug\net10.0\Lab_04_6_7.AssemblyInfoInputs.cache
+C:\Users\iziko\source\repos\Lab_04\Lab_04_6_7\obj\Debug\net10.0\Lab_04_6_7.AssemblyInfo.cs
+C:\Users\iziko\source\repos\Lab_04\Lab_04_6_7\obj\Debug\net10.0\Lab_04_6_7.csproj.CoreCompileInputs.cache
+C:\Users\iziko\source\repos\Lab_04\Lab_04_6_7\obj\Debug\net10.0\Lab_04_6_7.dll
+C:\Users\iziko\source\repos\Lab_04\Lab_04_6_7\obj\Debug\net10.0\refint\Lab_04_6_7.dll
+C:\Users\iziko\source\repos\Lab_04\Lab_04_6_7\obj\Debug\net10.0\Lab_04_6_7.pdb
+C:\Users\iziko\source\repos\Lab_04\Lab_04_6_7\obj\Debug\net10.0\Lab_04_6_7.genruntimeconfig.cache
+C:\Users\iziko\source\repos\Lab_04\Lab_04_6_7\obj\Debug\net10.0\ref\Lab_04_6_7.dll
+C:\Users\iziko\source\repos\Lab_04\Lab_04_6_7\obj\Debug\net10.0\Lab_04_6_7.csproj.Up2Date
